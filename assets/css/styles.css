@@ -75,7 +75,8 @@ a.btn-cta-primary:hover,
 a.btn-cta-secondary,
 .btn-cta-secondary {
   background: #479FC8;
-  border: 1px solid #479FC8;
+  border: 1px solid #479FC8; 
+  border-radius: 20px;
   color: #fff;
   font-weight: 600;
   text-transform: uppercase;
